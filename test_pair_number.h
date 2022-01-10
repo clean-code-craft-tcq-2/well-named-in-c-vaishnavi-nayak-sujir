@@ -6,4 +6,4 @@ void testNumberToPair(int pairNumber,
 void testPairToNumber(
     enum MajorColor major,
     enum MinorColor minor,
-    int expectedPairNumber)
+    int expectedPairNumber);
