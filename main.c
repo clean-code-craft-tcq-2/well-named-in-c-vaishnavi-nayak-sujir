@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <assert.h>
 #include "modularity.h"
-#include "test_pair_number.h"
+
 
 
 void ColorPairToString(const ColorPair* colorPair, char* buffer) {
