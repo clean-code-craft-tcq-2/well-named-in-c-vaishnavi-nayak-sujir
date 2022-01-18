@@ -4,6 +4,7 @@
 #include "NumbertoPair.h"
 #include "PairToNumber.h"
 
+
 int main() {
     testNumberToPair(4, WHITE, BROWN);
     testNumberToPair(5, WHITE, SLATE);
