@@ -1,8 +1,8 @@
 #include <stdio.h>
 #include <assert.h>
 #include "modularity.h"
-#include "test_colorcode.h"
-#include "get_colorcode.h"
+#include "NumbertoPair.h"
+#include "PairToNumber.h"
 
 int main() {
     testNumberToPair(4, WHITE, BROWN);
