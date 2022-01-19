@@ -1,5 +1,4 @@
-#include "PairToNumber.h"
-
+#include <assert.h>
 #include "modularity.h"
 
 int GetPairNumberFromColor(const ColorPair* colorPair) {
